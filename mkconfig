@@ -1,0 +1,10 @@
+CC = tcc
+LD = $CC
+NAME = ffhd
+LOCAL = $HOME/local
+BIN = $LOCAL/bin
+SHR = $LOCAL/shr
+MAN = $SHR/man
+CPPFLAGS =
+CFLAGS =
+LDFLAGS =
